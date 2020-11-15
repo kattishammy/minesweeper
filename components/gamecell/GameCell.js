@@ -1,3 +1,6 @@
+/*
+ * This component hold the behviour and representation of Game Cell. One Block representing mine or green farm land depending on the game state.
+ */
 import React, { useState } from "react";
 import {
   explosionImg,

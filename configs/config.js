@@ -1,3 +1,6 @@
+/*
+ * This file isintended to hold maximum possible hasrdcodings in project.
+ */
 import { useState } from "react";
 
 export const explosionImg = "/media/explosion.png";

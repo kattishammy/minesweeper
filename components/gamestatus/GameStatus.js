@@ -1,3 +1,6 @@
+/*
+ * This component holds the representational components of topNav bar for user inputs provided. Holds the logical info about starting the game.
+ */
 import React, { useState } from "react";
 import { defRows, defCols, defMines } from "../../configs/config";
 import { gameGenerator } from "../gamegenerator/gameGenerator";

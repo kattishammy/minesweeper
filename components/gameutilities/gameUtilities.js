@@ -1,3 +1,6 @@
+/*
+ * This is a utility based on BFS Search Algorithm used for Clearing all the empty cells adjoining an empty cell. Not yet Integrated into UI Behaviour.
+ */
 export const getSurroundingNeighbours = (
   array,
   i,

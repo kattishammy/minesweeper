@@ -1,3 +1,6 @@
+/*
+ * This Component holds the Game Board responsible of rendering all its child components like GameCells, GameNavBar for inputs.
+ */
 import React, { useState } from "react";
 import { GameCell } from "../gamecell/GameCell";
 import "./gameboard.css";

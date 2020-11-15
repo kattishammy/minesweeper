@@ -1,3 +1,8 @@
+/*
+ * The sole purpose of this file is to hold logic for generating random game based on inputs provided and interact with other representational components.
+ * This is a purely logical component and holds no representational components.
+ */
+
 import React from "react";
 
 export const findNeighboursin2DArrayPosition = (props, incrementVal = 1) => {
