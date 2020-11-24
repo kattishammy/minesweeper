@@ -11,15 +11,15 @@ Minesweeper Using React JS and Bootstrap
 
 ## Installation
 ### https://github.com/kattishammy/minesweeper/blob/master/minesweeper.zip Download File from here to homedirectory
-1. cd
-2. ls ~/minesweeper.zip
-3. unzip minesweeper.zip
-4. create-react-app kshanmukha_minesweeper
-5. cp -rf minesweeper/src kshanmukha_minesweeper/
-6. cp -rf minesweeper/public/media kshanmukha_minesweeper/public/
-7. cd kshanmukha_minesweeper
-8. npm install --save bootstrap
-9. npm install
+* cd
+* ls ~/minesweeper.zip
+* unzip minesweeper.zip
+* create-react-app kshanmukha_minesweeper
+* cp -rf minesweeper/src kshanmukha_minesweeper/
+* cp -rf minesweeper/public/media kshanmukha_minesweeper/public/
+* cd kshanmukha_minesweeper
+* npm install --save bootstrap
+* npm install
 
 ## Start
 npm start
